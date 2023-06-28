@@ -1,50 +1,31 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cfa"]
 	path = cfa
 	url = https://github.com/cran/cfa
-	shallow = true
-	registered = true
 [submodule "eRm"]
 	path = eRm
 	url = https://github.com/cran/eRm
-	shallow = true
-	registered = true
 [submodule "homals"]
 	path = homals
 	url = https://github.com/cran/homals
-	shallow = true
-	registered = true
 [submodule "mixPHM"]
 	path = mixPHM
 	url = https://github.com/cran/mixPHM
-	shallow = true
-	registered = true
 [submodule "MPsychoR"]
 	path = MPsychoR
 	url = https://github.com/cran/MPsychoR
-	shallow = true
-	registered = true
 [submodule "RaschSampler"]
 	path = RaschSampler
 	url = https://github.com/cran/RaschSampler
-	shallow = true
-	registered = true
 [submodule "REQS"]
 	path = REQS
 	url = https://github.com/cran/REQS
-	shallow = true
-	registered = true
 [submodule "semds"]
 	path = semds
 	url = https://github.com/cran/semds
-	shallow = true
-	registered = true
 [submodule "smacof"]
 	path = smacof
 	url = https://github.com/cran/smacof
-	shallow = true
-	registered = true
