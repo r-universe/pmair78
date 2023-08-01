@@ -2,6 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "MPsychoR"]
+	path = MPsychoR
+	url = https://github.com/cran/MPsychoR
+[submodule "REQS"]
+	path = REQS
+	url = https://github.com/cran/REQS
+[submodule "RaschSampler"]
+	path = RaschSampler
+	url = https://github.com/cran/RaschSampler
 [submodule "cfa"]
 	path = cfa
 	url = https://github.com/cran/cfa
@@ -14,15 +23,6 @@
 [submodule "mixPHM"]
 	path = mixPHM
 	url = https://github.com/cran/mixPHM
-[submodule "MPsychoR"]
-	path = MPsychoR
-	url = https://github.com/cran/MPsychoR
-[submodule "RaschSampler"]
-	path = RaschSampler
-	url = https://github.com/cran/RaschSampler
-[submodule "REQS"]
-	path = REQS
-	url = https://github.com/cran/REQS
 [submodule "semds"]
 	path = semds
 	url = https://github.com/cran/semds
